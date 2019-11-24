@@ -1,0 +1,25 @@
+header .header {
+    width: 100%;
+    height: 70px;
+    background-color: white;
+    position: fixed;
+    margin-top: -90px;
+    z-index: 999;
+    border-bottom: 2px solid #563d7c;
+}
+/* .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+p{
+    color: red;
+}
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+} */
