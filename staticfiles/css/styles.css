@@ -7,6 +7,9 @@ header .header {
     z-index: 999;
     border-bottom: 2px solid #563d7c;
 }
+p{
+    color: red;
+}
 /* .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
@@ -15,9 +18,7 @@ header .header {
     -ms-user-select: none;
     user-select: none;
 }
-p{
-    color: red;
-}
+
 @media (min-width: 768px) {
     .bd-placeholder-img-lg {
         font-size: 3.5rem;
