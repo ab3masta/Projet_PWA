@@ -6,5 +6,5 @@ from . import views
 app_name='exemple'
 urlpatterns = [
     path('', views.home, name='home'),
-    url('(?P<id>[0-9]+)', views.show , name='detail'),
+    # url('(?P<id>[0-9]+)', views.show , name='detail'),
 ]
